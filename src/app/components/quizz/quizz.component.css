@@ -77,3 +77,37 @@
   align-items: center;
   color: white;
 }
+
+.quizz-results p {
+  margin-top: 15px;
+}
+
+@media (max-width: 480px) {
+  .quizz-logo > img {
+    width: 320px;
+    height: 100%;
+  }
+
+  .quizz-questions > h3 {
+    text-align: center;
+    font-size: 1.2rem;
+  }
+
+  .quizz-options > button {
+    width: 100%;
+  }
+
+  .quizz-results {
+    text-align: center;
+  }
+  .quizz-results p {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 280px) {
+  .quizz-logo > img {
+    width: 270px;
+    height: 100%;
+  }
+}
