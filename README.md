@@ -31,7 +31,7 @@ O arquivo `quizz_questions.json` contém as perguntas e respostas utilizadas na 
 
 Exemplo de estrutura:
 
-``json
+`
 [
     {
       "id": 1,
@@ -55,7 +55,7 @@ Exemplo de estrutura:
     }
     ...
 ]
-``
+`
 
 # Contribuindo
 Contribuições são bem-vindas! Se você tem ideias para melhorar este projeto ou identificou algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
