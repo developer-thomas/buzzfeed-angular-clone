@@ -31,8 +31,9 @@ O arquivo `quizz_questions.json` contém as perguntas e respostas utilizadas na 
 
 Exemplo de estrutura:
 
-`
-[
+
+<code>
+  [
     {
       "id": 1,
       "question": "Qual super poder você escolheria ?",
@@ -55,7 +56,11 @@ Exemplo de estrutura:
     }
     ...
 ]
-`
+</code>
+
+
+
+
 
 # Contribuindo
 Contribuições são bem-vindas! Se você tem ideias para melhorar este projeto ou identificou algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
